@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afiva Maylinda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Informatics Engineering Student | Aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Java, JavaScript, web development, PHP, and database management.**
 
